@@ -1,11 +1,11 @@
 body{
-    background: black;
+    background: white;
 }
 
 #titulo1 {
     text-align: center;
     font-size: 50px;
-    color: aliceblue;
+    color: black;
 }
 
 .p1{
@@ -50,7 +50,7 @@ header {
 }
 
 .principal {
-    background: bisque;
+    background: black;
 }
 
 .beneficos {
