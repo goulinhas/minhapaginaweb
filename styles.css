@@ -11,7 +11,7 @@ body{
 .p1{
     text-align: justify;
     font-size: 20px;
-    color: white;
+    color: black;
 }
 
 .p2{
@@ -23,7 +23,6 @@ body{
 #img1{
     display: block;
     margin: 0 auto;
-    width: 50%;
 }
 
 #titulo2 {
@@ -47,7 +46,7 @@ body{
 header {
     text-align: center;
     font-size: 50px;
-    color: black;
+    color: white;
 }
 
 .principal {
@@ -55,5 +54,5 @@ header {
 }
 
 .beneficos {
-    background: black;
+    background: white;
 }
